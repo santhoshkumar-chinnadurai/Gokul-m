@@ -15,7 +15,7 @@ export const About: React.FC = () => {
             <div className="about-image-glow"></div>
             <div className="about-image-container">
               <img 
-                src="/cloud_architect_avatar.png" 
+                src="/gokul_photo.jpg" 
                 alt="Gokul M Profile" 
                 className="about-profile-img"
               />
